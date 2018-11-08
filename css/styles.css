@@ -1,0 +1,75 @@
+.header {
+    background: url("../img/header.jpg") no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 300px;
+    color: #ffffff;
+    font-family: "Arial Black";
+    font-size: 5em;
+    text-align: center;
+    text-shadow: 5px 4px 2px #1C6EA4;
+    vertical-align: middle;
+}
+
+.login {
+    margin-top: -170px;
+    width: 20%;
+    height: 50px;
+    float: right;
+    font-size: 2.0em;
+    color: floralwhite;
+    text-shadow: 1px 1px 4px black;
+    text-decoration: underline;
+    text-align: center;
+    font-family: "Arial Black";
+}
+
+.login a{
+    color: floralwhite;
+}
+
+.login img{
+    float: left;
+    box-shadow: 8px 8px 5px 0 rgba(0,0,0,0.75);
+    border-radius: 28px;
+    -moz-border-radius: 28px;
+    -webkit-border-radius: 28px;
+}
+
+.menu {
+    margin-top: -100px;
+    width: 25%;
+    height: 80px;
+    float: right;
+    box-shadow: -11px -8px 13px 2px rgba(0,0,0,0.75);
+}
+
+.menu table{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-family: "Arial Black";
+    font-size: 2.3em;
+    color: floralwhite;
+    text-shadow: 1px 1px 4px black;
+    table-layout: fixed;
+    border-spacing: 0;
+}
+
+.menu table td{
+    background: url("../img/menu_button_bg.jpg");
+    background-size: 100%;
+}
+
+.menu a{
+    text-decoration: none;
+    color: floralwhite;
+}
+
+.content {
+    background-color: ghostwhite;
+}
+
+.footer {
+    background-color: darkkhaki;
+}
